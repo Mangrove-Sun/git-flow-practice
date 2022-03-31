@@ -1,11 +1,7 @@
-# Spider-Man 1
-- Yaer: 2002
+# Amazing Spider-Man 1
+- Yaer: 2012
 - Name: Peter Benjamin Parker
 
-# Spider-Man 2
-- Yaer: 2004
-- Name: Peter Benjamin Parker
-
-# Spider-Man 3
-- Yaer: 2007
+# Amazing Spider-Man 2
+- Yaer: 2014
 - Name: Peter Benjamin Parker
